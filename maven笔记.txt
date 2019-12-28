@@ -1,0 +1,3 @@
+maven框架上的框架
+MavenRepository文件夹是Maven仓库（用于存放下载的第三方库、在Maven中下载的东西都放在这个文件夹下）
+.xml是配置文件
